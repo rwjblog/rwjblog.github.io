@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>今天跑步了吗？</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-10-12T15:47:54.407Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>小阮只跑后山</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>消息轰炸</title>
+    <link href="http://example.com/2022/10/12/first/"/>
+    <id>http://example.com/2022/10/12/first/</id>
+    <published>2022-10-12T03:27:24.000Z</published>
+    <updated>2022-10-12T15:47:54.407Z</updated>
+    
+    <content type="html"><![CDATA[<p>炸炸炸炸炸炸炸炸炸炸炸炸炸炸炸</p><span id="more"></span><p>from pynput.keyboard import Key, Controller<br>import time<br>&#x2F;<em>注：发送前需要将键盘设置为英文输入模式！</em>&#x2F;<br>keyboard &#x3D; Controller()<br>a &#x3D; input(“请输入你需要循环输出的内容:”)<br>b &#x3D; eval(input(“请输入你想循环输出的次数:”))<br>print(“数据已接收, 请将光标移动到会话框”)<br>time.sleep(1)<br>for i in range(b):  # 设置发送次数<br>    keyboard.type(a)<br>    time.sleep(1)<br>    keyboard.press(Key.enter)<br>    keyboard.release(Key.enter)<br>print(‘消息发送完成!’)</p><h2 id="下载依赖包-pip-install-pynput"><a href="#下载依赖包-pip-install-pynput" class="headerlink" title="下载依赖包:pip install pynput"></a>下载依赖包:pip install pynput</h2><div class="note warning"><p>这里是警告。</p></div><div class="note info"><p>这里是提示</p></div>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;炸炸炸炸炸炸炸炸炸炸炸炸炸炸炸&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="one" scheme="http://example.com/categories/one/"/>
+    
+    
+    <category term="three" scheme="http://example.com/tags/three/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/10/10/hello-world/"/>
+    <id>http://example.com/2022/10/10/hello-world/</id>
+    <published>2022-10-10T07:18:50.696Z</published>
+    <updated>2022-10-12T15:45:24.638Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="08b00ab21dc35e82842d0e5b54eebd0d9739216ff3f8c04c46280c89f5741714">165d50f05814027fb7fe5e4ae8a088d86d0c1aba6d70b1044ca65dff1bf2218cbd3b930c090fc7b66d2adb6659e3ccf95194d3e32dc083e2525c89d0052fb19de71b1620ddb2e7b355e7ee5fd05404a69bda6c22a0217bd4d3d2594b3445ccdbdd7a6ee3d6676e7dd78202d7330cc589a3a37bb9a1c2ed57aa6a412412549c1174bc9e19ba7c2bde4b3a3741eefc5cc68e95b70c0a00ccc5a372d53193264017b841db02f3cb1075c920ab398c5211cb054c74f10325726f1c16e8fc83763e404b1b113d96993960687f92c8ac1d10f3fca18876cbc0fa7fb340506e08077070a07666c404b929089c6eea3c2be575036244cce40472eedda9d368ebf199068ed1801edf81f2ef3960be94fcaa3faefea541a6969a1dd75f0b309280079554b0500ceb8bddb9fe2e3702ef1887eef37b55501f49d8646c689f5191de7845e05f726a20f2bf742c0903616ba6512cb9a2dab598fa33f56efe0656a0ef415ab29d4fdce66f2b4b8b2d04fdd588f80ab2a6f1be05eebd022026147c53a13fe08dedf0e1ebf7a5a6d0fcb3be4fca14de3651dc4923cea3f4bbc6eb712f2033443f4236d2af85c634357e100c96baf4ec34cd276ffa6b4174d431d7e7eddc8a20ec0c7bc76eadf29a4e058c893d9a1bc1f7f106e7f4139bd4c648a411bad54f7ffa0692e3c34f0a23ed09ee9e4f8b1736c15ed54498192ef2b72112f78e9ec7d1f0eaaf4720f5b79c1c64eec1b712f2234725553d52a521c305d9483bc692f0d519b70fb11fbd82c7b36824e94d6a6912901ca5e3cac2bb883a7dcbd48781ac2b9812fdbe67557c43696708dd1fc07dcc13fa6e6754baed7845d3a09361c274a0f02e807ecc9587c11b39421a8e2fc3617f516921baa87fa83299bebe0fa865ca37cc87aefd14d161edb541e9d05f9dc98c2ad6d34c74e6ab7aee304261722e69812ad62de18a02a3117efa583bb3ee0d80f89996cf8280b2f634a1cb2f120630f7c90e9a45a0d4eb859deafdedc69b6d4bee752097067e36867b2b0036e9fdb0fe8e79cc265f43bee0fa90557800f646205daee8f4bc66812781a98c6cd023b0835174831d559cce2809029aeb7eea4b94fc42970e2cb468fa616f9a3517b2118bfef0a3fe7ae06e435158f8879c87c5218777848179c46076674a39c1b91b7a31fef4a1c044ad336d6390dda65b9f3d381d</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">从第一人称</summary>
+    
+    
+    
+    <category term="two" scheme="http://example.com/categories/two/"/>
+    
+    
+    <category term="one" scheme="http://example.com/tags/one/"/>
+    
+  </entry>
+  
+</feed>
