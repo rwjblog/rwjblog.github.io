@@ -1724,6 +1724,7 @@ header.header {
   color: #f00;
   display: inline-block;
   margin: 0 5px;
+  animation: icon-animate 1.33s ease-in-out infinite;
 }
 .busuanzi-count #busuanzi_container_site_uv {
   display: none;
@@ -2982,7 +2983,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #e4b5ff;
+  background: #2bff73;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
