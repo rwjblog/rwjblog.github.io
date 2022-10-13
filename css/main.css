@@ -1420,7 +1420,7 @@ header.header {
 .site-author-image {
   border: 2px solid #333;
   max-width: 96px;
-  padding: 2px;
+  padding: 0px;
   border-radius: 50%;
   transition: 2s all;
 }
@@ -2982,7 +2982,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #75ff85;
+  background: #ffac99;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
