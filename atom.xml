@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-26T03:56:16.059Z</updated>
+  <updated>2022-11-05T10:33:12.239Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>喜欢的歌</title>
+    <link href="http://example.com/2022/11/05/music-love/"/>
+    <id>http://example.com/2022/11/05/music-love/</id>
+    <published>2022-11-05T09:54:31.000Z</published>
+    <updated>2022-11-05T10:33:12.239Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="MC-Hotdog热狗"><a href="#MC-Hotdog热狗" class="headerlink" title="MC Hotdog热狗"></a><a href="https://baike.baidu.com/item/MC%20Hotdog/1883375?fr=aladdin">MC Hotdog热狗</a></h2><h3 id=""><a href="#" class="headerlink" title=""></a><blockquote class="blockquote-center"><p>《轻熟女 27》</p></blockquote></h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=135025&amp;auto=1&amp;height=66"></iframe><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><blockquote class="blockquote-center"><p>《Do You Remember》</p></blockquote></h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1365873829&amp;auto=1&amp;height=66"></iframe><h3 id="-2"><a href="#-2" class="headerlink" title=""></a><blockquote class="blockquote-center"><p>《思念是一种病》</p></blockquote></h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1384570117&amp;auto=1&amp;height=66"></iframe><h2 id="NINEONE乃万"><a href="#NINEONE乃万" class="headerlink" title="NINEONE乃万"></a><a href="https://baike.baidu.com/item/%E4%B9%83%E4%B8%87/24275805?fr=aladdin">NINEONE乃万</a></h2><h3 id="-3"><a href="#-3" class="headerlink" title=""></a><blockquote class="blockquote-center"><p>《Cake》</p></blockquote></h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=485859298&amp;auto=1&amp;height=66"></iframe><h3 id="-4"><a href="#-4" class="headerlink" title=""></a><blockquote class="blockquote-center"><p>《I don’t wanna see u anymore》</p></blockquote></h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=528326686&amp;auto=1&amp;height=66"></iframe><h3 id="-5"><a href="#-5" class="headerlink" title=""></a><blockquote class="blockquote-center"><p>《Summer Vibe》</p></blockquote></h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=570336496&amp;auto=1&amp;height=66"></iframe>]]></content>
+    
+    
+    <summary type="html">说唱为主。</summary>
+    
+    
+    
+    
+    <category term="说唱" scheme="http://example.com/tags/%E8%AF%B4%E5%94%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>强风吹拂</title>
