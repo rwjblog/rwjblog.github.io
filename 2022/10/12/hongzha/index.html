@@ -41,7 +41,7 @@
 <meta property="og:description" content="自动发消息">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2022-10-12T03:27:24.000Z">
-<meta property="article:modified_time" content="2022-10-18T06:07:28.662Z">
+<meta property="article:modified_time" content="2022-11-05T13:39:26.976Z">
 <meta property="article:author" content="小阮Running">
 <meta property="article:tag" content="python">
 <meta name="twitter:card" content="summary">
@@ -177,18 +177,18 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">11</span>
+          <span class="site-state-item-count">12</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
           <a href="/categories/">
-        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-count">6</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">13</span>
+        <span class="site-state-item-count">16</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -269,7 +269,7 @@
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
       <meta itemprop="name" content="消息轰炸 | 小阮只跑后山">
-      <meta itemprop="description" content="">
+      <meta itemprop="description" content="自动发消息">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
@@ -291,7 +291,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2022-10-18 14:07:28" itemprop="dateModified" datetime="2022-10-18T14:07:28+08:00">2022-10-18</time>
+      <time title="修改时间：2022-11-05 21:39:26" itemprop="dateModified" datetime="2022-11-05T21:39:26+08:00">2022-11-05</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -317,7 +317,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">本文字数：</span>
-      <span>356</span>
+      <span>351</span>
     </span>
     <span class="post-meta-item" title="阅读时长">
       <span class="post-meta-item-icon">
@@ -328,6 +328,7 @@
     </span>
 </div>
 
+            <div class="post-description">自动发消息</div>
         </div>
       </header>
 
@@ -335,9 +336,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-        <p>自动发消息</p>
-<span id="more"></span>
-<h2 id="下载依赖包-pip-install-pynput"><a href="#下载依赖包-pip-install-pynput" class="headerlink" title="下载依赖包:pip install pynput"></a>下载依赖包:pip install pynput</h2><hr>
+        <h2 id="下载依赖包-pip-install-pynput"><a href="#下载依赖包-pip-install-pynput" class="headerlink" title="下载依赖包:pip install pynput"></a>下载依赖包:pip install pynput</h2><hr>
 <p>from pynput.keyboard import Key, Controller<br>import time<br>/<em>注：发送前需要将键盘设置为英文输入模式！</em>/<br>keyboard = Controller()<br>a = input(“请输入你需要循环输出的内容:”)<br>b = eval(input(“请输入你想循环输出的次数:”))<br>print(“数据已接收, 请将光标移动到会话框”)<br>time.sleep(1)<br>for i in range(b):  # 设置发送次数<br>    keyboard.type(a)<br>    time.sleep(1)<br>    keyboard.press(Key.enter)<br>    keyboard.release(Key.enter)<br>print(‘消息发送完成!’)</p>
 
     </div>
@@ -419,7 +418,7 @@
       <i class="fa fa-chart-line"></i>
     </span>
       <span>站点总字数：</span>
-    <span title="站点总字数">6k</span>
+    <span title="站点总字数">7k</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
