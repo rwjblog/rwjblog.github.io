@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-15T14:31:20.284Z</updated>
+  <updated>2022-11-16T07:06:15.095Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>生活记录！</title>
+    <link href="http://example.com/2022/11/16/daily-record/"/>
+    <id>http://example.com/2022/11/16/daily-record/</id>
+    <published>2022-11-16T06:56:49.000Z</published>
+    <updated>2022-11-16T07:06:15.095Z</updated>
+    
+    <content type="html"><![CDATA[<p>待续……….</p>]]></content>
+    
+    
+    <summary type="html">一些日常生活中的事</summary>
+    
+    
+    
+    <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="记录" scheme="http://example.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>日常训练</title>
     <link href="http://example.com/2022/11/15/run-record/"/>
     <id>http://example.com/2022/11/15/run-record/</id>
     <published>2022-11-15T14:10:17.000Z</published>
-    <updated>2022-11-15T14:31:20.284Z</updated>
+    <updated>2022-11-19T15:41:04.458Z</updated>
     
-    <content type="html"><![CDATA[<img src="https://s1.ax1x.com/2022/11/15/zVYNdg.jpg"><div class="note info"><p>我是这样想的，把日常的训练记录下来，万一哪天成功了，就可以拿这篇文章”吹水”了。<br>以七天为一个周期记录<br>手表：佳明235<br>数据软件参考：Connect，QRrun，佳速度</p></div><h2 id="2022-11-14-2022-11-20"><a href="#2022-11-14-2022-11-20" class="headerlink" title="2022.11.14-2022.11.20"></a><strong>2022.11.14-2022.11.20</strong></h2><div class="tabs" id="周"><ul class="nav-tabs"><li class="tab active"><a href="#周-1">周 1</a></li><li class="tab"><a href="#周-2">周 2</a></li><li class="tab"><a href="#周-3">周 3</a></li><li class="tab"><a href="#周-4">周 4</a></li><li class="tab"><a href="#周-5">周 5</a></li><li class="tab"><a href="#周-6">周 6</a></li><li class="tab"><a href="#周-7">周 7</a></li></ul><div class="tab-content"><div class="tab-pane active" id="周-1"><blockquote><p>距离：15公里，<br>平均配速：423<br>平均步频：181步/分<br>平均步幅：1.26米<br>平均心率：159次/分<br>爬升：25米</p></blockquote><p>感受：中规中矩的渐加速跑，最后一公里只冲到3分52秒，看来能力还是不太够。</p></div><div class="tab-pane" id="周-2"><blockquote><p>距离：17公里，<br>平均配速：456<br>平均步频：179步/分<br>平均步幅：1.13米<br>平均心率：156次/分<br>爬升：103米</p></blockquote><p>感受：早上06:10起来，硬是拖到06:50才出门，因为出门太晚，路上很多行人，只好去跑跑山路。跑到一半下了点小雨，当时犹豫要不要找个地方躲雨，幸好就下了一会儿。这个数据爬升我不是很满意，坡都快要跑吐了，才100多爬升我是不信的</p></div><div class="tab-pane" id="周-3"><blockquote></blockquote></div><div class="tab-pane" id="周-4"><blockquote></blockquote></div><div class="tab-pane" id="周-5"><blockquote></blockquote></div><div class="tab-pane" id="周-6"><blockquote></blockquote></div><div class="tab-pane" id="周-7"><blockquote></blockquote></div></div></div>]]></content>
+    <content type="html"><![CDATA[<img src="https://s1.ax1x.com/2022/11/15/zVYNdg.jpg"><div class="note info"><p>趁我还记得，就记录下来。<br>手表：佳明235<br>鞋子：多威<br>数据软件参考：Connect，佳速度</p></div><h2 id="2022-11-14-2022-11-20"><a href="#2022-11-14-2022-11-20" class="headerlink" title="2022.11.14-2022.11.20"></a><strong>2022.11.14-2022.11.20</strong></h2><div class="tabs" id="周"><ul class="nav-tabs"><li class="tab active"><a href="#周-1">周 1</a></li><li class="tab"><a href="#周-2">周 2</a></li><li class="tab"><a href="#周-3">周 3</a></li><li class="tab"><a href="#周-4">周 4</a></li><li class="tab"><a href="#周-5">周 5</a></li><li class="tab"><a href="#周-6">周 6</a></li><li class="tab"><a href="#周-7">周 7</a></li></ul><div class="tab-content"><div class="tab-pane active" id="周-1"><blockquote><p>距离：15公里，<br>平均配速：423<br>平均步频：181步/分<br>平均步幅：1.26米<br>平均心率：159次/分<br>爬升：25米</p></blockquote><p>感受：中规中矩的渐加速跑，最后一公里只冲到3分52秒，看来能力还是不太够。</p></div><div class="tab-pane" id="周-2"><blockquote><p>距离：17公里，<br>平均配速：456<br>平均步频：179步/分<br>平均步幅：1.13米<br>平均心率：156次/分<br>爬升：103米</p></blockquote><p>感受：早上06:10起来，硬是拖到06:50才出门，因为出门太晚，路上很多行人，只好去跑跑山路。跑到一半下了点小雨，当时犹豫要不要找个地方躲雨，幸好就下了一会儿。这个数据爬升我不是很满意，坡都快要跑吐了，才100多爬升我是不信的</p></div><div class="tab-pane" id="周-3"><blockquote><p>距离：10公里，<br>平均配速：415<br>平均步频：181步/分<br>平均步幅：1.3米<br>平均心率：163次/分<br>爬升：5米</p></blockquote><p>早上起不来，只能下午跑了。不知道是太热了还是没状态，这个配速尽然用了差不多9成功力。</p></div><div class="tab-pane" id="周-4"><blockquote><p>无</p></blockquote><p>早上又是起不来，难搞！</p></div><div class="tab-pane" id="周-5"><blockquote><p>距离：30公里，<br>平均配速：425<br>平均步频：182步/分<br>平均步幅：1.24米<br>平均心率：161次/分<br>爬升：49米</p></blockquote><p>没想到竟然跑下来了，跑到7公里左右开始下小雨，也可能是这个原因，体感比较舒服就坚持下来了，说实话7公里的时候衣服已经湿透了，本来是不适合跑长距离的天气，幸好还是跑完了。</p></div><div class="tab-pane" id="周-6"><blockquote><p>距离：7公里，<br>平均配速：522<br>平均步频：179步/分<br>平均步幅：1.04米<br>平均心率：137次/分<br>爬升：17米</p></blockquote><p>看着心率跑的，尽量不超过140次/分，小腿还是有点酸痛。</p></div><div class="tab-pane" id="周-7"><blockquote></blockquote></div></div></div>]]></content>
     
     
     <summary type="html">记录和总结</summary>
@@ -36,8 +59,6 @@
     <category term="跑步" scheme="http://example.com/tags/%E8%B7%91%E6%AD%A5/"/>
     
     <category term="训练" scheme="http://example.com/tags/%E8%AE%AD%E7%BB%83/"/>
-    
-    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
