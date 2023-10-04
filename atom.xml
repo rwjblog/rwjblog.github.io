@@ -6,15 +6,38 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-23T13:01:20.000Z</updated>
+  <updated>2023-10-04T04:57:52.716Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>小阮Running</name>
+    <name>小阮只跑后山</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GoPro Black 7</title>
+    <link href="http://example.com/2023/10/04/gopro/"/>
+    <id>http://example.com/2023/10/04/gopro/</id>
+    <published>2023-10-04T04:43:12.000Z</published>
+    <updated>2023-10-04T04:57:52.716Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="购买"><a href="#购买" class="headerlink" title="购买"></a>购买</h2><blockquote><p>在闲鱼上面找了好几天，最终以900元拿下了，没有翻车。<br>虽然没有翻车，但是买来吃灰了。<br>从买来，到现在(2023.10.4)2个月只用了两次</p></blockquote>]]></content>
+    
+    
+    <summary type="html">心血来潮，斥巨资买了个运动相机想着记录跑步，结果大部分时间放着吃灰，我r</summary>
+    
+    
+    
+    <category term="相机" scheme="http://example.com/categories/%E7%9B%B8%E6%9C%BA/"/>
+    
+    
+    <category term="运动相机" scheme="http://example.com/tags/%E8%BF%90%E5%8A%A8%E7%9B%B8%E6%9C%BA/"/>
+    
+    <category term="黑狗7" scheme="http://example.com/tags/%E9%BB%91%E7%8B%977/"/>
+    
+  </entry>
   
   <entry>
     <title>日常训练</title>
