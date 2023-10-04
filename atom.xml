@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-04T04:57:52.716Z</updated>
+  <updated>2023-10-04T12:59:12.305Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,19 +18,19 @@
   
   <entry>
     <title>GoPro Black 7</title>
-    <link href="http://example.com/2023/10/04/gopro/"/>
-    <id>http://example.com/2023/10/04/gopro/</id>
+    <link href="http://example.com/gopro/"/>
+    <id>http://example.com/gopro/</id>
     <published>2023-10-04T04:43:12.000Z</published>
-    <updated>2023-10-04T04:57:52.716Z</updated>
+    <updated>2023-10-04T12:59:12.305Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="购买"><a href="#购买" class="headerlink" title="购买"></a>购买</h2><blockquote><p>在闲鱼上面找了好几天，最终以900元拿下了，没有翻车。<br>虽然没有翻车，但是买来吃灰了。<br>从买来，到现在(2023.10.4)2个月只用了两次</p></blockquote>]]></content>
-    
-    
-    <summary type="html">心血来潮，斥巨资买了个运动相机想着记录跑步，结果大部分时间放着吃灰，我r</summary>
+    <content type="html"><![CDATA[<img src="https://z1.ax1x.com/2023/10/04/pPOHCvt.jpg"><p>在2023年8月份的某几天里，在闲鱼上面看了好久的运动相机。</p><p>因为是小白，起初是想买骁途s2的，因为要支持国产啦，高性价比啦等等(其实是比较便宜)，不过最后脑子进水了还是怎么滴，居然买了价钱是骁途2倍多gopro black 7。</p><p>本来是想着用来记录跑步生活的，但是记录的方式实在是太尴尬了。从买来到现在10月份差不多两个月，就只用了两次，一次是手持记录，但是跑的过程中手是摆动的，所以很晃，效果不理想。另一次是头戴式，这个只能人少天气冷的时候用，不然又尴尬又难受。</p><p>但是如果用来记录旅游vlog的形式，那感觉还是不错的，但是一个人旅游的话，那也没什么意思。</p>]]></content>
     
     
+    <summary type="html">心血来潮，买来吃灰，我r</summary>
     
-    <category term="相机" scheme="http://example.com/categories/%E7%9B%B8%E6%9C%BA/"/>
+    
+    
+    <category term="相机系列" scheme="http://example.com/categories/%E7%9B%B8%E6%9C%BA%E7%B3%BB%E5%88%97/"/>
     
     
     <category term="运动相机" scheme="http://example.com/tags/%E8%BF%90%E5%8A%A8%E7%9B%B8%E6%9C%BA/"/>
@@ -41,8 +41,8 @@
   
   <entry>
     <title>日常训练</title>
-    <link href="http://example.com/2022/11/15/run-record/"/>
-    <id>http://example.com/2022/11/15/run-record/</id>
+    <link href="http://example.com/run-record/"/>
+    <id>http://example.com/run-record/</id>
     <published>2022-11-15T14:10:17.000Z</published>
     <updated>2022-12-23T13:01:20.000Z</updated>
     
@@ -64,8 +64,8 @@
   
   <entry>
     <title>喜欢的歌</title>
-    <link href="http://example.com/2022/11/05/music-love/"/>
-    <id>http://example.com/2022/11/05/music-love/</id>
+    <link href="http://example.com/music-love/"/>
+    <id>http://example.com/music-love/</id>
     <published>2022-11-05T09:54:31.000Z</published>
     <updated>2022-11-05T13:33:36.000Z</updated>
     
@@ -85,8 +85,8 @@
   
   <entry>
     <title>强风吹拂</title>
-    <link href="http://example.com/2022/10/26/qiangfengchuifu/"/>
-    <id>http://example.com/2022/10/26/qiangfengchuifu/</id>
+    <link href="http://example.com/qiangfengchuifu/"/>
+    <id>http://example.com/qiangfengchuifu/</id>
     <published>2022-10-26T02:59:14.000Z</published>
     <updated>2022-10-26T03:56:18.000Z</updated>
     
@@ -110,8 +110,8 @@
   
   <entry>
     <title>国内经典影视剧</title>
-    <link href="http://example.com/2022/10/26/home-movie/"/>
-    <id>http://example.com/2022/10/26/home-movie/</id>
+    <link href="http://example.com/home-movie/"/>
+    <id>http://example.com/home-movie/</id>
     <published>2022-10-26T02:30:46.000Z</published>
     <updated>2022-11-05T13:38:26.000Z</updated>
     
@@ -133,8 +133,8 @@
   
   <entry>
     <title>国外经典影视剧</title>
-    <link href="http://example.com/2022/10/18/foreign_movie/"/>
-    <id>http://example.com/2022/10/18/foreign_movie/</id>
+    <link href="http://example.com/foreign_movie/"/>
+    <id>http://example.com/foreign_movie/</id>
     <published>2022-10-17T16:30:44.000Z</published>
     <updated>2022-11-05T13:37:52.000Z</updated>
     
@@ -156,8 +156,8 @@
   
   <entry>
     <title>宫崎骏</title>
-    <link href="http://example.com/2022/10/16/cartoon/"/>
-    <id>http://example.com/2022/10/16/cartoon/</id>
+    <link href="http://example.com/cartoon/"/>
+    <id>http://example.com/cartoon/</id>
     <published>2022-10-16T08:47:49.000Z</published>
     <updated>2022-11-05T13:34:00.000Z</updated>
     
@@ -177,8 +177,8 @@
   
   <entry>
     <title>中森明菜</title>
-    <link href="http://example.com/2022/10/16/movie_akina/"/>
-    <id>http://example.com/2022/10/16/movie_akina/</id>
+    <link href="http://example.com/movie_akina/"/>
+    <id>http://example.com/movie_akina/</id>
     <published>2022-10-16T05:29:27.000Z</published>
     <updated>2022-11-05T13:39:40.000Z</updated>
     
@@ -198,12 +198,12 @@
   
   <entry>
     <title>消息轰炸</title>
-    <link href="http://example.com/2022/10/12/hongzha/"/>
-    <id>http://example.com/2022/10/12/hongzha/</id>
+    <link href="http://example.com/hongzha/"/>
+    <id>http://example.com/hongzha/</id>
     <published>2022-10-12T03:27:24.000Z</published>
-    <updated>2022-11-05T13:39:28.000Z</updated>
+    <updated>2023-10-04T11:05:58.745Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="下载依赖包-pip-install-pynput"><a href="#下载依赖包-pip-install-pynput" class="headerlink" title="下载依赖包:pip install pynput"></a>下载依赖包:pip install pynput</h2><hr><p>from pynput.keyboard import Key, Controller<br>import time<br>/<em>注：发送前需要将键盘设置为英文输入模式！</em>/<br>keyboard = Controller()<br>a = input(“请输入你需要循环输出的内容:”)<br>b = eval(input(“请输入你想循环输出的次数:”))<br>print(“数据已接收, 请将光标移动到会话框”)<br>time.sleep(1)<br>for i in range(b):  # 设置发送次数<br>    keyboard.type(a)<br>    time.sleep(1)<br>    keyboard.press(Key.enter)<br>    keyboard.release(Key.enter)<br>print(‘消息发送完成!’)</p>]]></content>
+    <content type="html"><![CDATA[<p>首先下载依赖包pynput<br>执行命令：pip install pynput</p><p>代码：<br>from pynput.keyboard import Key, Controller<br>import time<br>/<em>注：发送前需要将键盘设置为英文输入模式！</em>/<br>keyboard = Controller()<br>a = input(“请输入你需要循环输出的内容:”)<br>b = eval(input(“请输入你想循环输出的次数:”))<br>print(“数据已接收, 请将光标移动到会话框”)<br>time.sleep(1)<br>for i in range(b):  # 设置发送次数<br>    keyboard.type(a)<br>    time.sleep(1)<br>    keyboard.press(Key.enter)<br>    keyboard.release(Key.enter)<br>print(‘消息发送完成!’)</p>]]></content>
     
     
     <summary type="html">自动发消息</summary>
@@ -219,8 +219,8 @@
   
   <entry>
     <title>小学毕业照</title>
-    <link href="http://example.com/2022/10/11/xiaoxue/"/>
-    <id>http://example.com/2022/10/11/xiaoxue/</id>
+    <link href="http://example.com/xiaoxue/"/>
+    <id>http://example.com/xiaoxue/</id>
     <published>2022-10-11T14:53:01.000Z</published>
     <updated>2022-12-03T15:25:54.000Z</updated>
     
@@ -240,8 +240,8 @@
   
   <entry>
     <title>初中毕业照</title>
-    <link href="http://example.com/2022/10/11/chuzhong/"/>
-    <id>http://example.com/2022/10/11/chuzhong/</id>
+    <link href="http://example.com/chuzhong/"/>
+    <id>http://example.com/chuzhong/</id>
     <published>2022-10-11T14:45:26.000Z</published>
     <updated>2022-10-26T02:24:02.000Z</updated>
     
@@ -261,8 +261,8 @@
   
   <entry>
     <title>高中毕业照</title>
-    <link href="http://example.com/2022/10/11/gaozhong/"/>
-    <id>http://example.com/2022/10/11/gaozhong/</id>
+    <link href="http://example.com/gaozhong/"/>
+    <id>http://example.com/gaozhong/</id>
     <published>2022-10-11T03:27:24.000Z</published>
     <updated>2022-10-26T02:24:14.000Z</updated>
     
@@ -282,8 +282,8 @@
   
   <entry>
     <title>大学毕业照</title>
-    <link href="http://example.com/2022/10/11/daxue/"/>
-    <id>http://example.com/2022/10/11/daxue/</id>
+    <link href="http://example.com/daxue/"/>
+    <id>http://example.com/daxue/</id>
     <published>2022-10-11T02:19:27.000Z</published>
     <updated>2022-10-26T02:26:06.000Z</updated>
     
