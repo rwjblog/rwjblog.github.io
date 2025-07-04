@@ -152,9 +152,9 @@
     <category term="什么都学一点，学到就是赚到" scheme="http://example.com/categories/%E4%BB%80%E4%B9%88%E9%83%BD%E5%AD%A6%E4%B8%80%E7%82%B9%EF%BC%8C%E5%AD%A6%E5%88%B0%E5%B0%B1%E6%98%AF%E8%B5%9A%E5%88%B0/"/>
     
     
-    <category term="电影" scheme="http://example.com/tags/%E7%94%B5%E5%BD%B1/"/>
-    
     <category term="国内" scheme="http://example.com/tags/%E5%9B%BD%E5%86%85/"/>
+    
+    <category term="电影" scheme="http://example.com/tags/%E7%94%B5%E5%BD%B1/"/>
     
   </entry>
   
